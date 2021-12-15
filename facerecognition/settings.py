@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ag%10vvg8p&cn-=il6o3!hbrw%zex4&1drnqk%t=p2rq)j-d2$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['face_ml.herokuapp.com']
+ALLOWED_HOSTS = ['face-ml.herokuapp.com']
 
 
 # Application definition
